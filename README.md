@@ -13,7 +13,7 @@
 2.  Change your directory `cd sms-management`
 3.  Install all dependencies `npm install`
 4.  Create .env file which will be used to load environment variables see sample in `.env.example` file in the project
-7.  Start the app `npm start` for development 
+7.  Start the app `npm run start:dev` for development 
 8.  Navigate to `localhost:2000` on postman to test the endpoints
 
 
